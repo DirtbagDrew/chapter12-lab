@@ -1,5 +1,3 @@
-#!/usr/local/php5/bin/php-cgi
-
 <header class="header">
   <div class="header__wrapper">
     <h1 class="header__heading">Art Store</h1>
