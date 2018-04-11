@@ -1,5 +1,5 @@
 $(window).scroll(function() {
-if ($(this).scrollTop() > 1){  
+if ($(this).scrollTop() > 1){
     $('header').addClass("header--sticky");
   }
   else{
